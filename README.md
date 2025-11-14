@@ -14,7 +14,7 @@ En este repositorio, se aplica el Value-at-Risk (VaR) utilizando la metodología
 
 # Principales funciones
 * **get.gobix()**: Realiza la descarga de la serie de tiempo del GOBIXDR.
-* **garch.ts.forecast()**: Realiza la estimación del cono de probabilidades de movimiento de precios.
+* **garch.ts.forecast()**: Realiza la estimación del cono de probabilidades en el nivel de precios aplicando la simualción GARCH diaria.
 * **garch.oos.sim()**: Realiza la prueba y validación del modelo.
 
 # Librerias requeridas
