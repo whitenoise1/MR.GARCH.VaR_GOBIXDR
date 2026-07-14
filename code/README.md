@@ -14,12 +14,12 @@ Esta carpeta contiene una versión modular y depurada del script original
 ## Ejecución
 
 Ejecutar `main.R` con el directorio de trabajo en la **raíz del repositorio** (no en
-`refactor/`), para que se encuentren `GARCH_msperlin_functions.R`, `Best_GARCH_Gobix1.csv`
+`code/`), para que se encuentren `GARCH_msperlin_functions.R`, `Best_GARCH_Gobix1.csv`
 y `Top1PCT_model_validation_test.csv`:
 
 ```r
 # desde la raíz del repositorio
-source("refactor/main.R")
+source("code/main.R")
 ```
 
 ## Bandera `RUN_FULL_CALIBRATION`

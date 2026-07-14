@@ -52,7 +52,7 @@ seed.mc         <- 1     # semilla forecast Monte-Carlo (garch.ts.forecast)
 source("GARCH_msperlin_functions.R")
 
 # Funciones auxiliares del análisis (extraídas del script original)
-source("refactor/functions.R")
+source("code/functions.R")
 
 # Procesamiento de datos ----
 # gobix daily

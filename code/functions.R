@@ -1,9 +1,9 @@
 # Funciones extraídas de VR_y_RM_Aplicacion_VaR_en_GOBIXDR.R (copiadas textualmente).
-# Versión modular: ver refactor/main.R. El script original sigue siendo la referencia canónica.
+# Versión modular: ver code/main.R. El script original sigue siendo la referencia canónica.
 #
 # NOTA: el script original REDEFINE plot.quadrants y rolling.var.backtest a mitad
 # del análisis (con firmas/comportamiento distintos). Aquí se incluye la PRIMERA
-# versión de cada una; las redefiniciones posteriores se mantienen en refactor/main.R
+# versión de cada una; las redefiniciones posteriores se mantienen en code/main.R
 # en su posición original para preservar exactamente el comportamiento.
 
 # ---- Métricas de riesgo ----

@@ -18,7 +18,7 @@ En este repositorio se aplica el Value-at-Risk (VaR) utilizando la metodología 
 | `Best_GARCH_Gobix1.csv` | Resultado precalculado de la calibración: criterio de selección de cada uno de los 32,400 modelos probados. |
 | `Top1PCT_model_validation_test.csv` | Resultado precalculado de la prueba/validación del top 1% de modelos/configuraciones. |
 | `paper_VaR_GOBIXDR_final.pdf` | Versión final del documento publicado. |
-| `refactor/` | Versión modular y limpia del script (`functions.R` + `main.R`), con la calibración costosa desactivada por defecto (`RUN_FULL_CALIBRATION <- FALSE`). Ver `refactor/README.md`. |
+| `code/` | Versión modular y limpia del script (`functions.R` + `main.R`), con la calibración costosa desactivada por defecto (`RUN_FULL_CALIBRATION <- FALSE`). Ver `code/README.md`. |
 
 ## Cómo ejecutar
 
